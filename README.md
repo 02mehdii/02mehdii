@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mehdi</h1>
-<h2 align="center">A Frontend Developer from Florida</h2>
+<h2 align="center">A Full Stack Developer from Florida</h2>
 
 ![coding (1)](https://github.com/02mehdii/02mehdii/assets/107004006/8721482f-0040-47e5-a367-917da27cbd0f)
 
@@ -9,15 +9,15 @@
 
 <p align="left"> <a href="https://twitter.com/itzfr33zy" target="blank"><img src="https://img.shields.io/twitter/follow/itzfr33zy?logo=twitter&style=for-the-badge" alt="itzfr33zy" /></a> </p>
 
-- 🔭 I’m currently working on a **Ecommerce Site**
+- 🔭 I’m currently working on a **SAAS AI Software**
 
 - 🌱 I’m currently learning **React & Javascript**
 
 - 👨‍💻 All of my projects are available at [Soon](Soon)
 
-- 💬 Ask me about **HTML & CSS**
+- 💬 Ask me about **Anything**
 
-- 📫 How to reach me **mehdilots1@gmail.com**
+- 📫 How to reach me **mehdilots1@gmail.com** or **https://www.linkedin.com/in/mehdi-m-lotfi/**
 
 
 <h3 align="left">Languages and Tools:</h3>
