@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/itzfr33zy" target="blank"><img src="https://img.shields.io/twitter/follow/itzfr33zy?logo=twitter&style=for-the-badge" alt="itzfr33zy" /></a> </p>
 
-- 🔭 I’m currently working on a **SAAS AI Software**
+- 🔭 I’m currently working on a **Slothy.ai**
 
-- 🌱 I’m currently learning **React & Javascript**
+- 🌱 I’m currently learning **Everything**
 
 - 👨‍💻 All of my projects are available at [Soon](Soon)
 
